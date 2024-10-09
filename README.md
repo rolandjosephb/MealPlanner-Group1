@@ -5,7 +5,9 @@ openai,
 uvicorn,
 langchain,
 asyncio,
-asyncpg
+asyncpg,
+python-dotenv,
+Flask
 google-generativeai, and 
 python-dotenv
 
