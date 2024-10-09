@@ -1,13 +1,13 @@
 setup the .venv and
-pip install fastapi,
+install the following(e.g) pip install fastapi:
+fastapi,
 openai,
 uvicorn,
 langchain,
 asyncio,
 asyncpg
-
-pip install google-generativeai
-pip install python-dotenv
+google-generativeai
+python-dotenv
 
 For the .env file
 make a file name .env where the app.py
