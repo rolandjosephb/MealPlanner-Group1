@@ -6,7 +6,7 @@ uvicorn,
 langchain,
 asyncio,
 asyncpg
-google-generativeai
+google-generativeai, and 
 python-dotenv
 
 For the .env file
